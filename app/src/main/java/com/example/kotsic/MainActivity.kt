@@ -12,5 +12,5 @@ class MainActivity : AppCompatActivity() {
 }
 
 fun test() {
-
+val test354 = 1
 }
